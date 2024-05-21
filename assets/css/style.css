@@ -152,7 +152,7 @@ footer {
 
 @keyframes anima-logo {
   to {
-    transform: translateX(15rem);
+    transform: translateX(10rem);
   }
 }
 
